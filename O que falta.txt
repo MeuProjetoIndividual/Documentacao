@@ -1,0 +1,6 @@
+O que falta
+
+- Backlog
+- Diagrama de Negócio
+- Diagrama de Solução
+- Bibliografia
